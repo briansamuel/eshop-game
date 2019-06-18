@@ -1,0 +1,13 @@
+# Node modules
+node_modules/
+
+# Any logs created
+*.log
+*.stackdump
+
+# IDE settings
+.idea/
+.vscode/
+
+# NPM Dist
+dist/
